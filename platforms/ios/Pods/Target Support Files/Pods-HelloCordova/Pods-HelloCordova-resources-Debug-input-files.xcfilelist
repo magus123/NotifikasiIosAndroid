@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-HelloCordova/Pods-HelloCordova-resources.sh
+${PODS_ROOT}/FirebaseFirestore/FirebaseFirestore/Resources/gRPCCertificates-Cpp.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInAppMessaging/InAppMessagingDisplayResources.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleTagManager/TagManagerResources.bundle

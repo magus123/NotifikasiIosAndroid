@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "268538914097",
+    "project_id": "notifiosandroid",
+    "storage_bucket": "notifiosandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268538914097:android:aa0d5e8cbb3f98f481bc10",
+        "android_client_info": {
+          "package_name": "ios.notif.hellocordovaios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268538914097-ic1gp2r2m7mqjb5ra6fe7othsadr27e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKFMVjSUYsLGgtKt6wPPl1MYKlkikqT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268538914097-ic1gp2r2m7mqjb5ra6fe7othsadr27e1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268538914097-usee37rs33387ku4c95iiesr5qcg5uh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ios.notif.hellocordovaios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

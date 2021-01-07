@@ -1,0 +1,36 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-enable-multidex": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-firebasex": {
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "false",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "false",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "false",
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-hello-c": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "ios.notif.hellocordovaios"
+    }
+  },
+  "dependent_plugins": {}
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<title>Learn PWA</title>
+<link rel="stylesheet" href="css/main.css">
+<link rel="manifest" href="/manifest.json">
+<link href="/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <body>
+            
+            <header>
+            <img src="images/bank-tabungan-negara-btn.jpg" alt="" width="150">
+            </header>
+
+            <div class="container">
+                <div class="row">
+                  <div class="col-sm">
+                    <div id="container" style="height: 400px"></div>
+                  </div>
+                  <div class="col-sm">
+                    <div id="container2"  style="height: 400px"> </div>
+                  </div>
+                  <div class="col-sm">
+                    <div id="container3" style="height: 400px"></div>
+                  </div>
+                </div>
+              </div>    
+            </div>  
+            <h3>Activity log (latest first)</h3>
+            <button onclick="clearLog()">Clear activity log</button>
+            <xmp id="log-output"></xmp>
+            
+            <script type="text/javascript" src="cordova.js"></script>
+            <script type="text/javascript"  src="js/jquery.min.js"> </script>
+            <script type="text/javascript"  src="js/index.js" > </script>
+            <script type="text/javascript"   src="js/main.js" charset="utf-8"></script>
+            <script type="text/javascript" src="js/config.js"></script>
+            <script src="manifest.json" charset="utf-8"></script>
+            <script src="serviceworker.js" charset="utf-8"></script>
+            <script src="http://code.highcharts.com/highcharts.js"></script> 
+            <script src="https://code.highcharts.com/highcharts.js"></script>
+            <script src="https://code.highcharts.com/highcharts-more.js"></script>
+            <script src="https://code.highcharts.com/modules/exporting.js"></script>
+            <script src="https://code.highcharts.com/modules/export-data.js"></script>
+            <script src="https://code.highcharts.com/modules/accessibility.js"></script> 
+    </body>
+</html>
